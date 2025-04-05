@@ -28,6 +28,7 @@ View your text statistics
 
 Requirements
 Python
+
 Streamlit
 
 Author
