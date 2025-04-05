@@ -34,5 +34,6 @@ View your text statistics
 
 - Streamlit
 
-Author
+## Author
+
 [Ayesha Maryam]
