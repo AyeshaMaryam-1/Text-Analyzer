@@ -12,24 +12,27 @@ A Streamlit web application that analyzes text and provides useful statistics.
 - Advanced text statistics
 
 ## How to Use
-1. Install requirements:
-   ```bash
+
+Install requirements:
+```bash
    pip install streamlit
+```
 Run the app:
 
-bash
-Copy
-streamlit run app.py
+```bash
+   streamlit run app.py
+```
 Enter text in the input box
 
 Click "Analyze Text" button
 
 View your text statistics
 
-Requirements
-Python
+## Requirements
 
-Streamlit
+- Python
+
+- Streamlit
 
 Author
 [Ayesha Maryam]
