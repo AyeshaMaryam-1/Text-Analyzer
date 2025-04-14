@@ -36,4 +36,4 @@ View your text statistics
 
 ## Author
 
-[Ayesha Maryam]
+Ayesha Maryam
